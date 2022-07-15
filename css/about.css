@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#fourth-hero .line {
+    width: 15%;
+    border: 1px solid #ffbb33;
+}
+
+#fourth-hero .line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sixth-hero {
+    background: #fff;
+}
+
+#ninth-hero .line {
+    width: 100%;
+    border: 1px solid #ffbb33;
+}
+
+#ninth-hero .line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
