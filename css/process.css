@@ -5,7 +5,7 @@
 }
 
 #background-hero {
-    background-image: url(/img/main.jpg);
+    background-image: url(../img/main.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -31,6 +31,6 @@
     background-color: #f0f2f8;
 }
 
-#eight-hero {
+#eighth-hero {
     background-color: #f0f2f8;
 }
